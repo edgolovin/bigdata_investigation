@@ -1,0 +1,10 @@
+Matei Zaharia	1592
+Reynold Xin	1476
+Patrick Wendell	857
+Wenchen Fan	783
+Sean Owen	562
+Tathagata Das	562
+Dongjoon Hyun	559
+Josh Rosen	526
+Liang-Chi Hsieh	486
+Davies Liu	469
